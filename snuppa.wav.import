@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/snuppa.wav-9b32070645debde8e4b7358b109699f3.sample"
+
+[deps]
+
+source_file="res://snuppa.wav"
+dest_files=[ "res://.import/snuppa.wav-9b32070645debde8e4b7358b109699f3.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
